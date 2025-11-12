@@ -18,8 +18,9 @@ https: Protocol
 something: Domain Name
 
 Client ---------HTTP Request------------> Server
----
+--
 Client <-------HTTP Response------------- Server
+--
 
 - **Client:** Usually the browser or user device sending the request  
 - **Server:** Responds with the requested web page, data, or resource  
