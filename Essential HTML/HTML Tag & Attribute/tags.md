@@ -1,6 +1,6 @@
-## 🏗️ HTML Tags Overview
+##  HTML Tags Overview
 
-### 🧩 **About Tags**
+###  **About Tags**
 - Building blocks of a webpage  
 - Used to **structure content**  
 - Most tags have **opening** and **closing** parts  
