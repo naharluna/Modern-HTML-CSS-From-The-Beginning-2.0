@@ -1,0 +1,43 @@
+##  Role of Web Technologies
+
+###  HTML (Hypertext Markup Language) – *Content & Structure*
+- Semantically describes the structure of a webpage  
+- Consists of a series of elements that tell the browser how to display content  
+- Represented by tags such as:
+  - Headings  
+  - Paragraphs  
+  - Lists  
+  - Images  
+  - Links  
+  - Tables  
+  - Graphs  
+
+---
+
+###  CSS (Cascading Style Sheets) – *Presentation & Style*
+- Describes how elements should be styled and rendered on the screen  
+- Defines:
+  - Colors  
+  - Fonts  
+  - Spacing  
+  - Layout  
+  - Transitions  
+
+---
+
+###  JavaScript (JS) – *Behavior & Interactivity*
+- Makes webpages dynamic and interactive  
+- Adds features such as:
+  - Buttons  
+  - Modals  
+  - Popups  
+  - Events  
+  - Form validation  
+  - Sliders  
+
+---
+
+### Analogy (If the Webpage Were a Human)
+- **HTML:** Skeleton (Structure)  
+- **CSS:** Physical Appearance (Style)  
+- **JavaScript:** Behavior & Functionality  
