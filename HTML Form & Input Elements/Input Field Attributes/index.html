@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Labels & text Based Inputs and Text Based Attribute</h1>
+
+<!-- Submitting data to dataset need to use POST -->
+    <form action="process.php" method="POST">
+        <div>
+            <label for="name">Name</label>
+            <input 
+            type="text" 
+            id="name" 
+            placeholder="Enter Name" 
+      
+            name="name"
+            required
+            minlength="3"
+            maxlength="10"
+            />           
+        </div>
+
+        <br>
+        
+        <div>
+            <label for="email">Email</label>
+            <input 
+                type="email" 
+                id="email" 
+                placeholder="Enter Email" 
+                name="email"
+                value="test@test.com"   
+                required
+                disabled
+             >
+         
+        </div>
+
+        <br>
+
+        <div>
+            <label for="password">Password</label>
+            <input 
+                type="password" 
+                id="password" 
+                placeholder="Enter Password" 
+                name="password" 
+                required
+                minlength="6"
+             >
+            
+        </div>
+
+        <br>
+        <div>
+              <!-- <input type="submit" value="Submit">       -->
+            <button type="submit">Submit</button>
+            
+        </div>
+    </form>
+</body>
+</html>
