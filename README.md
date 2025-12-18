@@ -1,21 +1,21 @@
 # Modern HTML & CSS Practice Projects
 
-This repository contains a collection of frontend projects I built while learning **Modern HTML & CSS From The Beginning 2.0** — a comprehensive course that teaches web development from the basics to advanced responsive design and layout techniques. :contentReference[oaicite:0]{index=0}
+This repository contains a collection of frontend projects I built while learning **Modern HTML & CSS From The Beginning 2.0** — a comprehensive course that teaches web development from the basics to advanced responsive design and layout techniques.
 
 ---
 
 ## 📘 Course Overview
 
-**Modern HTML & CSS From The Beginning 2.0** is a step-by-step web development course focused on building responsive, modern websites using HTML5 and CSS3. It starts with foundational concepts and progresses to real-world projects so students can apply what they learn in practical scenarios. :contentReference[oaicite:1]{index=1}
+**Modern HTML & CSS From The Beginning 2.0** is a step-by-step web development course focused on building responsive, modern websites using HTML5 and CSS3. It starts with foundational concepts and progresses to real-world projects so students can apply what they learn in practical scenarios. 
 
-- HTML5 fundamentals, semantic markup, and structuring web pages. :contentReference[oaicite:2]{index=2}  
-- CSS basics, selectors, typography, colors, and layout principles. :contentReference[oaicite:3]{index=3}  
-- Responsive design with Flexbox and CSS Grid for flexible layouts. :contentReference[oaicite:4]{index=4}  
-- Advanced CSS features like transitions, animations, and pseudo-classes. :contentReference[oaicite:5]{index=5}  
-- Practical development workflow using VS Code, Live Server, and deployment. :contentReference[oaicite:6]{index=6}  
-- Building real UI projects like agency websites, forms, and product landing pages. :contentReference[oaicite:7]{index=7}
+- HTML5 fundamentals, semantic markup, and structuring web pages.
+- CSS basics, selectors, typography, colors, and layout principles.
+- Responsive design with Flexbox and CSS Grid for flexible layouts.
+- Advanced CSS features like transitions, animations, and pseudo-classes. 
+- Practical development workflow using VS Code, Live Server, and deployment. 
+- Building real UI projects like agency websites, forms, and product landing pages.
 
-This course is beginner-friendly and also valuable for anyone wanting to solidify their frontend skills. :contentReference[oaicite:8]{index=8}
+This course is beginner-friendly and also valuable for anyone wanting to solidify their frontend skills.
 
 ---
 
