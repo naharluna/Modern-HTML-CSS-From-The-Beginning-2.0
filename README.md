@@ -36,6 +36,19 @@ This course is beginner-friendly and also valuable for anyone wanting to solidif
 | Shoe Card | Product card UI mini project | [Live](https://shoecardmini.netlify.app/) | [Visit](https://github.com/naharluna/Modern-HTML-CSS-From-The-Beginning-2.0/tree/75e9478e101c092743c278c60283a88ac92c0c49/Section%206%3A%20Box%20Model%20%26%20Positioning/11.%20%20Shoe%20Cards%20Mini-Projects) |
 | Freelance Form | Clean and responsive freelance signup form | [Live](https://freelanceform.netlify.app/) | [Visit](https://github.com/naharluna/Modern-HTML-CSS-From-The-Beginning-2.0/tree/75e9478e101c092743c278c60283a88ac92c0c49/Section%206%3A%20Box%20Model%20%26%20Positioning/10.%20Freelance%20Form%20Project) |
 
+---
+
+## 📸 Project Screenshots
+
+Below are preview screenshots of some selected projects.  
+(Screenshots will be updated as the projects evolve.)
+
+### Lumina Creative – Website Pages
+
+| Home | About | Contact |
+|------|-------|---------|
+| ![Lumina Home](./screenshots/lumina/Home.png) | ![Lumina About](./screenshots/lumina/About.png) | ![Lumina Contact](./screenshots/lumina/Contact.png) |
+
 
 ## 📚 What I Learned
 
