@@ -84,6 +84,17 @@ Below are preview screenshots of some selected projects.
 |--------|--------|
 | ![](./screenshots/presentationslide/page3.png) | ![](./screenshots/presentationslide/page4.png) |
 
+### 📸 Shoe Card Mini Project
+
+![Shoe Card](./screenshots/shoe.png)
+
+
+### 📸 Pricing Grid / Price Card
+
+![Pricing Grid ](./screenshots/pricecard.png)
+
+
+
 
 ### 📸 Leno App Project
 
