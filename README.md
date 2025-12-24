@@ -87,7 +87,7 @@ Below are preview screenshots of some selected projects.
 
 ### 📸 Leno App Project
 
-![Leno App Screenshot](./screenshots/leno/Leno.png)
+![Leno App Screenshot](./screenshots/Leno.png)
 
 
 
