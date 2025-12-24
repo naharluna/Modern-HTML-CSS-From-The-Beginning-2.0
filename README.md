@@ -85,6 +85,12 @@ Below are preview screenshots of some selected projects.
 | ![](./screenshots/presentationslide/page3.png) | ![](./screenshots/presentationslide/page4.png) |
 
 
+### 📸 Leno App Project
+
+![Leno App Screenshot](./screenshots/leno/Leno.png)
+
+
+
 ## 📚 What I Learned
 
 Through these projects and the course, I improved my skills in:
