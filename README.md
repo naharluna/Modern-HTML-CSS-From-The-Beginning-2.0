@@ -53,6 +53,13 @@ Below are preview screenshots of some selected projects.
 
 ![Bono Mini Landing Form](./screenshots/bonominilandingform.png)
 
+### Tutor Website – Pages
+
+| Home | Contact |
+|------|---------|
+| ![Tutor Home](./tutor/tutor.png) | ![Tutor Contact](./tutor/tutorcontact.png) |
+
+
 ## 📚 What I Learned
 
 Through these projects and the course, I improved my skills in:
