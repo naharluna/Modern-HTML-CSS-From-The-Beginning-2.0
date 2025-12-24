@@ -49,6 +49,9 @@ Below are preview screenshots of some selected projects.
 |------|-------|---------|
 | ![Lumina Home](./screenshots/lumina/Home.png) | ![Lumina About](./screenshots/lumina/About.png) | ![Lumina Contact](./screenshots/lumina/Contact.png) |
 
+### Bono Mini Landing Form
+
+![Bono Mini Landing Form](./screenshots/bonominilandingform.png)
 
 ## 📚 What I Learned
 
