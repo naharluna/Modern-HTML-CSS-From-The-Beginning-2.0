@@ -53,11 +53,27 @@ Below are preview screenshots of some selected projects.
 
 ![Bono Mini Landing Form](./screenshots/bonominilandingform.png)
 
-### Tutor Website – Pages
+### Tutor Website
 
-| Home | Contact |
-|------|---------|
-| ![Tutor Home](./tutor/tutor.png) | ![Tutor Contact](./tutor/tutorcontact.png) |
+### Tutor Website – Main Pages
+
+| Home | About | Contact |
+|------|-------|---------|
+| ![](./screenshots/tutor/home.png) | ![](./screenshots/tutor/about.png) | ![](./screenshots/tutor/tutorcontact.png) |
+
+###  Course Content Pages
+
+| Chapters | Course Summary | Course Details & Author |
+|----------|----------------|-------------------------|
+| ![](./screenshots/tutor/chapters.png) | ![](./screenshots/tutor/coursesummary.png) | ![](./screenshots/tutor/detailsandauthors.png) |
+
+###  Learning Highlights
+
+| Takeaways | Stats | Newsletter |
+|-----------|-------|------------|
+| ![](./screenshots/tutor/takeaways.png) | ![](./screenshots/tutor/stats.png) | ![](./screenshots/tutor/newsletter.png) |
+
+
 
 
 ## 📚 What I Learned
