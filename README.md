@@ -43,7 +43,7 @@ This course is beginner-friendly and also valuable for anyone wanting to solidif
 Below are preview screenshots of some selected projects.  
 (Screenshots will be updated as the projects evolve.)
 
-### Lumina Creative – Website Pages
+### 📸 Lumina Creative – Website Pages
 
 | Home | About | Contact |
 |------|-------|---------|
@@ -53,7 +53,7 @@ Below are preview screenshots of some selected projects.
 
 ![Bono Mini Landing Form](./screenshots/bonominilandingform.png)
 
-### Tutor Website
+## 📸 Tutor Website
 
 ### Tutor Website – Main Pages
 
@@ -74,6 +74,15 @@ Below are preview screenshots of some selected projects.
 | ![](./screenshots/tutor/takeaways.png) | ![](./screenshots/tutor/stats.png) | ![](./screenshots/tutor/newsletter.png) |
 
 
+### 📸 Presentation Slide – Pages
+
+| Page 1 | Page 2 |
+|--------|--------|
+| ![](./presentationslide/Page1.png) | ![](./presentationslide/Page2.png) |
+
+| Page 3 | Page 4 |
+|--------|--------|
+| ![](./presentationslide/page3.png) | ![](./presentationslide/page4.png) |
 
 
 ## 📚 What I Learned
