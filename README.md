@@ -78,11 +78,11 @@ Below are preview screenshots of some selected projects.
 
 | Page 1 | Page 2 |
 |--------|--------|
-| ![](./presentationslide/Page1.png) | ![](./presentationslide/Page2.png) |
+| ![](./screenshots/presentationslide/Page1.png) | ![](./screenshots/presentationslide/Page2.png) |
 
 | Page 3 | Page 4 |
 |--------|--------|
-| ![](./presentationslide/page3.png) | ![](./presentationslide/page4.png) |
+| ![](./screenshots/presentationslide/page3.png) | ![](./screenshots/presentationslide/page4.png) |
 
 
 ## 📚 What I Learned
